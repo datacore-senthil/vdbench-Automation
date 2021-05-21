@@ -1,0 +1,436 @@
+2021-05-19 13:11:31,163 INFO  Get host details
+2021-05-19 13:11:31,288 INFO  Get server details
+2021-05-19 13:11:32,679 INFO  ExpertMode password is extracted
+2021-05-19 13:11:32,679 INFO  Encryption at zpool level set as None
+2021-05-19 13:13:32,707 INFO  Found 9 physical disks in server group
+2021-05-19 13:13:39,739 INFO  ************************Test Started************************
+2021-05-19 13:14:10,596 INFO  Capacity Optimization enabled successfully at server
+2021-05-19 13:14:28,641 INFO  Diskpool created successfully with capacity optimization
+2021-05-19 13:14:29,876 INFO  Disks are added to Diskpool
+2021-05-19 13:14:29,876 INFO  Reclamation started...
+2021-05-19 13:29:44,990 INFO  Reclamation completed
+2021-05-19 13:30:33,744 INFO  Server stopped successfully
+2021-05-19 13:31:17,671 INFO  Server started successfully
+2021-05-19 13:31:43,720 INFO  Virtual disk created successfully
+2021-05-19 13:32:08,769 INFO  ILDC properties enabled successfully on virtual disk
+2021-05-19 13:32:34,115 INFO  Virtual disk successfully served to the host
+2021-05-19 13:32:59,154 INFO  Initialized virtual disk successfully
+2021-05-19 13:33:24,156 INFO  ************************VdBench Execution Started************************
+2021-05-19 13:46:30,909 INFO  4-4k-4-fill workload executed sucessfully
+2021-05-19 13:52:36,048 INFO  VSI workload executed sucessfully
+2021-05-19 13:52:36,845 INFO  ************************VdBench Result Creation Started************************
+2021-05-19 13:52:36,861 INFO  15.0.1200.29364 Result created succesfully
+2021-05-19 13:52:36,876 INFO  ************************Setup Cleanup Started************************
+2021-05-19 13:52:36,986 INFO  Virtual disk unserved successfully
+2021-05-19 13:53:02,137 INFO  Virtual disk deleted successfully
+2021-05-19 13:54:23,878 INFO  Diskpool deleted successfully
+2021-05-19 13:56:39,311 INFO  Capacity Optimization disabled successfully at server
+2021-05-19 13:59:39,323 INFO  ************************VdBench Execution Completed************************
+2021-05-19 14:05:47,154 INFO  Get host details
+2021-05-19 14:05:47,280 INFO  Get server details
+2021-05-19 14:05:48,781 INFO  ExpertMode password is extracted
+2021-05-19 14:05:48,781 INFO  Encryption at zpool level set as None
+2021-05-19 14:07:48,827 INFO  Found 9 physical disks in server group
+2021-05-19 14:07:55,999 INFO  ************************Test Started************************
+2021-05-19 14:08:26,985 INFO  Capacity Optimization enabled successfully at server
+2021-05-19 14:08:45,033 INFO  Diskpool created successfully with capacity optimization
+2021-05-19 14:08:46,889 INFO  Disks are added to Diskpool
+2021-05-19 14:08:46,890 INFO  Reclamation started...
+2021-05-19 14:24:02,700 INFO  Reclamation completed
+2021-05-19 14:24:51,078 INFO  Server stopped successfully
+2021-05-19 14:25:33,944 INFO  Server started successfully
+2021-05-19 14:26:00,007 INFO  Virtual disk created successfully
+2021-05-19 14:26:25,120 INFO  ILDC properties enabled successfully on virtual disk
+2021-05-19 14:26:50,436 INFO  Virtual disk successfully served to the host
+2021-05-19 14:27:15,466 INFO  Initialized virtual disk successfully
+2021-05-19 14:27:40,476 INFO  ************************VdBench Execution Started************************
+2021-05-19 14:40:47,501 INFO  4-4k-4-fill workload executed sucessfully
+2021-05-19 14:46:52,596 INFO  VDI workload executed sucessfully
+2021-05-19 14:46:52,988 INFO  ************************VdBench Result Creation Started************************
+2021-05-19 14:46:53,004 INFO  15.0.1200.29364 Result created succesfully
+2021-05-19 14:46:53,020 INFO  ************************Setup Cleanup Started************************
+2021-05-19 14:46:53,113 INFO  Virtual disk unserved successfully
+2021-05-19 14:47:18,255 INFO  Virtual disk deleted successfully
+2021-05-19 14:49:19,890 INFO  Diskpool deleted successfully
+2021-05-19 14:51:35,500 INFO  Capacity Optimization disabled successfully at server
+2021-05-19 14:54:35,511 INFO  ************************VdBench Execution Completed************************
+2021-05-19 15:00:49,141 INFO  Get host details
+2021-05-19 15:00:49,251 INFO  Get server details
+2021-05-19 15:00:50,725 INFO  ExpertMode password is extracted
+2021-05-19 15:00:50,731 INFO  Encryption at zpool level set as None
+2021-05-19 15:02:50,796 INFO  Found 9 physical disks in server group
+2021-05-19 15:02:57,923 INFO  ************************Test Started************************
+2021-05-19 15:03:28,880 INFO  Capacity Optimization enabled successfully at server
+2021-05-19 15:03:46,927 INFO  Diskpool created successfully with capacity optimization
+2021-05-19 15:03:47,960 INFO  Disks are added to Diskpool
+2021-05-19 15:03:47,960 INFO  Reclamation started...
+2021-05-19 15:19:03,864 INFO  Reclamation completed
+2021-05-19 15:19:52,304 INFO  Server stopped successfully
+2021-05-19 15:20:36,013 INFO  Server started successfully
+2021-05-19 15:21:02,170 INFO  Virtual disk created successfully
+2021-05-19 15:21:27,232 INFO  ILDC properties enabled successfully on virtual disk
+2021-05-19 15:21:52,576 INFO  Virtual disk successfully served to the host
+2021-05-19 15:22:17,592 INFO  Initialized virtual disk successfully
+2021-05-19 15:22:42,603 INFO  ************************VdBench Execution Started************************
+2021-05-19 15:36:48,826 INFO  4-4k-4-fill workload executed sucessfully
+2021-05-19 15:42:54,830 INFO  SQL workload executed sucessfully
+2021-05-19 15:42:55,406 INFO  ************************VdBench Result Creation Started************************
+2021-05-19 15:42:55,419 INFO  15.0.1200.29364 Result created succesfully
+2021-05-19 15:42:55,424 INFO  ************************Setup Cleanup Started************************
+2021-05-19 15:42:55,511 INFO  Virtual disk unserved successfully
+2021-05-19 15:43:20,658 INFO  Virtual disk deleted successfully
+2021-05-19 15:43:58,674 INFO  Diskpool deleted successfully
+2021-05-19 15:46:13,832 INFO  Capacity Optimization disabled successfully at server
+2021-05-19 15:49:13,838 INFO  ************************VdBench Execution Completed************************
+2021-05-19 15:55:33,142 INFO  Get host details
+2021-05-19 15:55:33,266 INFO  Get server details
+2021-05-19 15:55:34,761 INFO  ExpertMode password is extracted
+2021-05-19 15:55:34,761 INFO  Encryption at zpool level set as None
+2021-05-19 15:57:34,739 INFO  Found 9 physical disks in server group
+2021-05-19 15:57:41,802 INFO  ************************Test Started************************
+2021-05-19 15:58:12,714 INFO  Capacity Optimization enabled successfully at server
+2021-05-19 15:58:31,785 INFO  Diskpool created successfully with capacity optimization
+2021-05-19 15:58:33,363 INFO  Disks are added to Diskpool
+2021-05-19 15:58:33,363 INFO  Reclamation started...
+2021-05-19 16:13:48,552 INFO  Reclamation completed
+2021-05-19 16:14:36,884 INFO  Server stopped successfully
+2021-05-19 16:15:21,755 INFO  Server started successfully
+2021-05-19 16:15:47,819 INFO  Virtual disk created successfully
+2021-05-19 16:16:12,915 INFO  ILDC properties enabled successfully on virtual disk
+2021-05-19 16:16:38,259 INFO  Virtual disk successfully served to the host
+2021-05-19 16:17:03,278 INFO  Initialized virtual disk successfully
+2021-05-19 16:17:28,287 INFO  ************************VdBench Execution Started************************
+2021-05-19 16:31:36,936 INFO  4-4k-4-fill workload executed sucessfully
+2021-05-19 16:37:42,908 INFO  ORACLE workload executed sucessfully
+2021-05-19 16:37:43,387 INFO  ************************VdBench Result Creation Started************************
+2021-05-19 16:37:43,450 INFO  15.0.1200.29364 Result created succesfully
+2021-05-19 16:37:43,450 INFO  ************************Setup Cleanup Started************************
+2021-05-19 16:37:43,778 INFO  Virtual disk unserved successfully
+2021-05-19 16:38:08,915 INFO  Virtual disk deleted successfully
+2021-05-19 16:40:11,065 INFO  Diskpool deleted successfully
+2021-05-19 16:42:26,781 INFO  Capacity Optimization disabled successfully at server
+2021-05-19 16:45:26,810 INFO  ************************VdBench Execution Completed************************
+2021-05-19 16:51:45,880 INFO  Get host details
+2021-05-19 16:51:46,005 INFO  Get server details
+2021-05-19 16:51:47,552 INFO  ExpertMode password is extracted
+2021-05-19 16:51:47,552 INFO  Encryption at zpool level set as None
+2021-05-19 16:53:47,576 INFO  Found 9 physical disks in server group
+2021-05-19 16:53:54,717 INFO  ************************Test Started************************
+2021-05-19 16:54:25,705 INFO  Capacity Optimization enabled successfully at server
+2021-05-19 16:54:43,784 INFO  Diskpool created successfully with capacity optimization
+2021-05-19 16:54:45,112 INFO  Disks are added to Diskpool
+2021-05-19 16:54:45,112 INFO  Reclamation started...
+2021-05-19 17:10:00,244 INFO  Reclamation completed
+2021-05-19 17:10:48,638 INFO  Server stopped successfully
+2021-05-19 17:11:32,317 INFO  Server started successfully
+2021-05-19 17:11:58,070 INFO  Virtual disk created successfully
+2021-05-19 17:12:23,119 INFO  ILD properties enabled successfully on virtual disk
+2021-05-19 17:12:48,433 INFO  Virtual disk successfully served to the host
+2021-05-19 17:13:13,457 INFO  Initialized virtual disk successfully
+2021-05-19 17:13:38,471 INFO  ************************VdBench Execution Started************************
+2021-05-19 17:29:44,629 INFO  4-4k-4-fill workload executed sucessfully
+2021-05-19 17:35:49,517 INFO  VSI workload executed sucessfully
+2021-05-19 17:35:49,878 INFO  ************************VdBench Result Creation Started************************
+2021-05-19 17:35:49,972 INFO  15.0.1200.29364 Result created succesfully
+2021-05-19 17:35:49,988 INFO  ************************Setup Cleanup Started************************
+2021-05-19 17:35:50,081 INFO  Virtual disk unserved successfully
+2021-05-19 17:36:15,219 INFO  Virtual disk deleted successfully
+2021-05-19 17:37:49,259 INFO  Diskpool deleted successfully
+2021-05-19 17:40:04,453 INFO  Capacity Optimization disabled successfully at server
+2021-05-19 17:43:04,464 INFO  ************************VdBench Execution Completed************************
+2021-05-19 17:49:22,493 INFO  Get host details
+2021-05-19 17:49:22,619 INFO  Get server details
+2021-05-19 17:49:24,121 INFO  ExpertMode password is extracted
+2021-05-19 17:49:24,121 INFO  Encryption at zpool level set as None
+2021-05-19 17:51:24,172 INFO  Found 9 physical disks in server group
+2021-05-19 17:51:31,391 INFO  ************************Test Started************************
+2021-05-19 17:52:02,393 INFO  Capacity Optimization enabled successfully at server
+2021-05-19 17:52:20,469 INFO  Diskpool created successfully with capacity optimization
+2021-05-19 17:52:21,938 INFO  Disks are added to Diskpool
+2021-05-19 17:52:21,938 INFO  Reclamation started...
+2021-05-19 18:07:37,940 INFO  Reclamation completed
+2021-05-19 18:08:26,425 INFO  Server stopped successfully
+2021-05-19 18:09:11,100 INFO  Server started successfully
+2021-05-19 18:09:37,178 INFO  Virtual disk created successfully
+2021-05-19 18:10:02,256 INFO  ILD properties enabled successfully on virtual disk
+2021-05-19 18:10:27,585 INFO  Virtual disk successfully served to the host
+2021-05-19 18:10:52,601 INFO  Initialized virtual disk successfully
+2021-05-19 18:11:17,617 INFO  ************************VdBench Execution Started************************
+2021-05-19 18:26:23,762 INFO  4-4k-4-fill workload executed sucessfully
+2021-05-19 18:32:28,705 INFO  VDI workload executed sucessfully
+2021-05-19 18:32:29,064 INFO  ************************VdBench Result Creation Started************************
+2021-05-19 18:32:29,189 INFO  15.0.1200.29364 Result created succesfully
+2021-05-19 18:32:29,205 INFO  ************************Setup Cleanup Started************************
+2021-05-19 18:32:29,283 INFO  Virtual disk unserved successfully
+2021-05-19 18:32:54,419 INFO  Virtual disk deleted successfully
+2021-05-19 18:34:44,186 INFO  Diskpool deleted successfully
+2021-05-19 18:36:59,319 INFO  Capacity Optimization disabled successfully at server
+2021-05-19 18:39:59,338 INFO  ************************VdBench Execution Completed************************
+2021-05-19 18:46:26,169 INFO  Get host details
+2021-05-19 18:46:26,279 INFO  Get server details
+2021-05-19 18:46:27,813 INFO  ExpertMode password is extracted
+2021-05-19 18:46:27,813 INFO  Encryption at zpool level set as None
+2021-05-19 18:48:27,862 INFO  Found 9 physical disks in server group
+2021-05-19 18:48:34,925 INFO  ************************Test Started************************
+2021-05-19 18:49:05,837 INFO  Capacity Optimization enabled successfully at server
+2021-05-19 18:49:23,852 INFO  Diskpool created successfully with capacity optimization
+2021-05-19 18:49:25,383 INFO  Disks are added to Diskpool
+2021-05-19 18:49:25,383 INFO  Reclamation started...
+2021-05-19 19:04:40,520 INFO  Reclamation completed
+2021-05-19 19:05:28,853 INFO  Server stopped successfully
+2021-05-19 19:06:12,505 INFO  Server started successfully
+2021-05-19 19:06:38,445 INFO  Virtual disk created successfully
+2021-05-19 19:07:03,494 INFO  ILD properties enabled successfully on virtual disk
+2021-05-19 19:07:28,824 INFO  Virtual disk successfully served to the host
+2021-05-19 19:07:53,848 INFO  Initialized virtual disk successfully
+2021-05-19 19:08:18,850 INFO  ************************VdBench Execution Started************************
+2021-05-19 19:23:24,795 INFO  4-4k-4-fill workload executed sucessfully
+2021-05-19 19:29:30,752 INFO  SQL workload executed sucessfully
+2021-05-19 19:29:31,095 INFO  ************************VdBench Result Creation Started************************
+2021-05-19 19:29:31,330 INFO  15.0.1200.29364 Result created succesfully
+2021-05-19 19:29:31,330 INFO  ************************Setup Cleanup Started************************
+2021-05-19 19:29:31,424 INFO  Virtual disk unserved successfully
+2021-05-19 19:29:56,836 INFO  Virtual disk deleted successfully
+2021-05-19 19:31:38,361 INFO  Diskpool deleted successfully
+2021-05-19 19:33:53,676 INFO  Capacity Optimization disabled successfully at server
+2021-05-19 19:36:53,702 INFO  ************************VdBench Execution Completed************************
+2021-05-19 19:43:04,684 INFO  Get host details
+2021-05-19 19:43:04,808 INFO  Get server details
+2021-05-19 19:43:06,307 INFO  ExpertMode password is extracted
+2021-05-19 19:43:06,307 INFO  Encryption at zpool level set as None
+2021-05-19 19:45:06,313 INFO  Found 9 physical disks in server group
+2021-05-19 19:45:13,407 INFO  ************************Test Started************************
+2021-05-19 19:45:44,382 INFO  Capacity Optimization enabled successfully at server
+2021-05-19 19:46:02,476 INFO  Diskpool created successfully with capacity optimization
+2021-05-19 19:46:04,036 INFO  Disks are added to Diskpool
+2021-05-19 19:46:04,036 INFO  Reclamation started...
+2021-05-19 20:01:19,165 INFO  Reclamation completed
+2021-05-19 20:02:07,843 INFO  Server stopped successfully
+2021-05-19 20:02:50,799 INFO  Server started successfully
+2021-05-19 20:03:16,864 INFO  Virtual disk created successfully
+2021-05-19 20:03:41,914 INFO  ILD properties enabled successfully on virtual disk
+2021-05-19 20:04:07,213 INFO  Virtual disk successfully served to the host
+2021-05-19 20:04:32,238 INFO  Initialized virtual disk successfully
+2021-05-19 20:04:57,240 INFO  ************************VdBench Execution Started************************
+2021-05-19 20:20:02,875 INFO  4-4k-4-fill workload executed sucessfully
+2021-05-19 20:26:07,814 INFO  ORACLE workload executed sucessfully
+2021-05-19 20:26:08,268 INFO  ************************VdBench Result Creation Started************************
+2021-05-19 20:26:08,705 INFO  15.0.1200.29364 Result created succesfully
+2021-05-19 20:26:08,705 INFO  ************************Setup Cleanup Started************************
+2021-05-19 20:26:08,971 INFO  Virtual disk unserved successfully
+2021-05-19 20:26:34,127 INFO  Virtual disk deleted successfully
+2021-05-19 20:28:02,588 INFO  Diskpool deleted successfully
+2021-05-19 20:30:17,614 INFO  Capacity Optimization disabled successfully at server
+2021-05-19 20:33:17,629 INFO  ************************VdBench Execution Completed************************
+2021-05-19 20:39:31,485 INFO  Get host details
+2021-05-19 20:39:31,594 INFO  Get server details
+2021-05-19 20:39:33,121 INFO  ExpertMode password is extracted
+2021-05-19 20:39:33,121 INFO  Encryption at zpool level set as None
+2021-05-19 20:41:33,106 INFO  Found 9 physical disks in server group
+2021-05-19 20:41:40,170 INFO  ************************Test Started************************
+2021-05-19 20:42:11,160 INFO  Capacity Optimization enabled successfully at server
+2021-05-19 20:42:29,190 INFO  Diskpool created successfully with capacity optimization
+2021-05-19 20:42:30,175 INFO  Disks are added to Diskpool
+2021-05-19 20:42:30,175 INFO  Reclamation started...
+2021-05-19 20:57:45,356 INFO  Reclamation completed
+2021-05-19 20:58:33,862 INFO  Server stopped successfully
+2021-05-19 20:59:16,932 INFO  Server started successfully
+2021-05-19 20:59:43,044 INFO  Virtual disk created successfully
+2021-05-19 21:00:08,124 INFO  ILC properties enabled successfully on virtual disk
+2021-05-19 21:00:33,455 INFO  Virtual disk successfully served to the host
+2021-05-19 21:00:58,480 INFO  Initialized virtual disk successfully
+2021-05-19 21:01:23,482 INFO  ************************VdBench Execution Started************************
+2021-05-19 21:13:31,330 INFO  4-4k-4-fill workload executed sucessfully
+2021-05-19 21:19:37,236 INFO  VSI workload executed sucessfully
+2021-05-19 21:19:37,596 INFO  ************************VdBench Result Creation Started************************
+2021-05-19 21:19:38,362 INFO  15.0.1200.29364 Result created succesfully
+2021-05-19 21:19:38,362 INFO  ************************Setup Cleanup Started************************
+2021-05-19 21:19:38,455 INFO  Virtual disk unserved successfully
+2021-05-19 21:20:03,625 INFO  Virtual disk deleted successfully
+2021-05-19 21:20:34,674 INFO  Diskpool deleted successfully
+2021-05-19 21:22:50,139 INFO  Capacity Optimization disabled successfully at server
+2021-05-19 21:25:50,155 INFO  ************************VdBench Execution Completed************************
+2021-05-19 21:32:04,488 INFO  Get host details
+2021-05-19 21:32:04,613 INFO  Get server details
+2021-05-19 21:32:06,143 INFO  ExpertMode password is extracted
+2021-05-19 21:32:06,143 INFO  Encryption at zpool level set as None
+2021-05-19 21:34:06,158 INFO  Found 9 physical disks in server group
+2021-05-19 21:34:13,236 INFO  ************************Test Started************************
+2021-05-19 21:34:44,242 INFO  Capacity Optimization enabled successfully at server
+2021-05-19 21:35:02,430 INFO  Diskpool created successfully with capacity optimization
+2021-05-19 21:35:03,877 INFO  Disks are added to Diskpool
+2021-05-19 21:35:03,877 INFO  Reclamation started...
+2021-05-19 21:50:19,013 INFO  Reclamation completed
+2021-05-19 21:51:07,596 INFO  Server stopped successfully
+2021-05-19 21:51:52,483 INFO  Server started successfully
+2021-05-19 21:52:18,610 INFO  Virtual disk created successfully
+2021-05-19 21:52:43,659 INFO  ILC properties enabled successfully on virtual disk
+2021-05-19 21:53:08,991 INFO  Virtual disk successfully served to the host
+2021-05-19 21:53:34,032 INFO  Initialized virtual disk successfully
+2021-05-19 21:53:59,035 INFO  ************************VdBench Execution Started************************
+2021-05-19 22:07:04,663 INFO  4-4k-4-fill workload executed sucessfully
+2021-05-19 22:13:09,580 INFO  VDI workload executed sucessfully
+2021-05-19 22:13:09,924 INFO  ************************VdBench Result Creation Started************************
+2021-05-19 22:13:11,299 INFO  15.0.1200.29364 Result created succesfully
+2021-05-19 22:13:11,299 INFO  ************************Setup Cleanup Started************************
+2021-05-19 22:13:11,393 INFO  Virtual disk unserved successfully
+2021-05-19 22:13:36,534 INFO  Virtual disk deleted successfully
+2021-05-19 22:14:07,443 INFO  Diskpool deleted successfully
+2021-05-19 22:16:22,332 INFO  Capacity Optimization disabled successfully at server
+2021-05-19 22:19:22,353 INFO  ************************VdBench Execution Completed************************
+2021-05-19 22:25:37,143 INFO  Get host details
+2021-05-19 22:25:37,267 INFO  Get server details
+2021-05-19 22:25:38,810 INFO  ExpertMode password is extracted
+2021-05-19 22:25:38,810 INFO  Encryption at zpool level set as None
+2021-05-19 22:27:38,791 INFO  Found 9 physical disks in server group
+2021-05-19 22:27:45,854 INFO  ************************Test Started************************
+2021-05-19 22:28:16,813 INFO  Capacity Optimization enabled successfully at server
+2021-05-19 22:28:34,892 INFO  Diskpool created successfully with capacity optimization
+2021-05-19 22:28:35,845 INFO  Disks are added to Diskpool
+2021-05-19 22:28:35,860 INFO  Reclamation started...
+2021-05-19 22:43:51,002 INFO  Reclamation completed
+2021-05-19 22:44:39,381 INFO  Server stopped successfully
+2021-05-19 22:45:21,146 INFO  Server started successfully
+2021-05-19 22:45:47,210 INFO  Virtual disk created successfully
+2021-05-19 22:46:12,276 INFO  ILC properties enabled successfully on virtual disk
+2021-05-19 22:46:37,594 INFO  Virtual disk successfully served to the host
+2021-05-19 22:47:02,621 INFO  Initialized virtual disk successfully
+2021-05-19 22:47:27,625 INFO  ************************VdBench Execution Started************************
+2021-05-19 22:59:35,082 INFO  4-4k-4-fill workload executed sucessfully
+2021-05-19 23:05:41,008 INFO  SQL workload executed sucessfully
+2021-05-19 23:05:41,367 INFO  ************************VdBench Result Creation Started************************
+2021-05-19 23:05:44,180 INFO  15.0.1200.29364 Result created succesfully
+2021-05-19 23:05:44,195 INFO  ************************Setup Cleanup Started************************
+2021-05-19 23:05:44,289 INFO  Virtual disk unserved successfully
+2021-05-19 23:06:09,415 INFO  Virtual disk deleted successfully
+2021-05-19 23:06:40,402 INFO  Diskpool deleted successfully
+2021-05-19 23:08:55,665 INFO  Capacity Optimization disabled successfully at server
+2021-05-19 23:11:55,679 INFO  ************************VdBench Execution Completed************************
+2021-05-19 23:17:59,920 INFO  Get host details
+2021-05-19 23:18:00,045 INFO  Get server details
+2021-05-19 23:18:01,558 INFO  ExpertMode password is extracted
+2021-05-19 23:18:01,558 INFO  Encryption at zpool level set as None
+2021-05-19 23:20:01,569 INFO  Found 9 physical disks in server group
+2021-05-19 23:20:08,741 INFO  ************************Test Started************************
+2021-05-19 23:20:39,727 INFO  Capacity Optimization enabled successfully at server
+2021-05-19 23:20:57,804 INFO  Diskpool created successfully with capacity optimization
+2021-05-19 23:20:59,245 INFO  Disks are added to Diskpool
+2021-05-19 23:20:59,245 INFO  Reclamation started...
+2021-05-19 23:36:15,247 INFO  Reclamation completed
+2021-05-19 23:37:03,717 INFO  Server stopped successfully
+2021-05-19 23:37:48,437 INFO  Server started successfully
+2021-05-19 23:38:14,594 INFO  Virtual disk created successfully
+2021-05-19 23:38:39,672 INFO  ILC properties enabled successfully on virtual disk
+2021-05-19 23:39:05,016 INFO  Virtual disk successfully served to the host
+2021-05-19 23:39:30,062 INFO  Initialized virtual disk successfully
+2021-05-19 23:39:55,078 INFO  ************************VdBench Execution Started************************
+2021-05-19 23:51:00,603 INFO  4-4k-4-fill workload executed sucessfully
+2021-05-19 23:57:05,517 INFO  ORACLE workload executed sucessfully
+2021-05-19 23:57:05,892 INFO  ************************VdBench Result Creation Started************************
+2021-05-19 23:57:11,548 INFO  15.0.1200.29364 Result created succesfully
+2021-05-19 23:57:11,564 INFO  ************************Setup Cleanup Started************************
+2021-05-19 23:57:11,658 INFO  Virtual disk unserved successfully
+2021-05-19 23:57:36,818 INFO  Virtual disk deleted successfully
+2021-05-19 23:58:07,694 INFO  Diskpool deleted successfully
+2021-05-20 00:00:22,618 INFO  Capacity Optimization disabled successfully at server
+2021-05-20 00:03:22,634 INFO  ************************VdBench Execution Completed************************
+2021-05-20 00:09:31,853 INFO  Get host details
+2021-05-20 00:09:31,978 INFO  Get server details
+2021-05-20 00:09:33,481 INFO  ExpertMode password is extracted
+2021-05-20 00:09:33,481 INFO  Encryption at zpool level set as None
+2021-05-20 00:11:33,534 INFO  Found 9 physical disks in server group
+2021-05-20 00:11:40,597 INFO  ************************Test Started************************
+2021-05-20 00:12:28,195 INFO  Diskpool created successfully with capacity optimization
+2021-05-20 00:12:28,509 INFO  Disks are added to Diskpool
+2021-05-20 00:12:28,510 INFO  Reclamation started...
+2021-05-20 00:27:43,706 INFO  Reclamation completed
+2021-05-20 00:28:31,929 INFO  Server stopped successfully
+2021-05-20 00:29:20,447 INFO  Server started successfully
+2021-05-20 00:29:46,074 INFO  Virtual disk created successfully
+2021-05-20 00:30:36,344 INFO  Virtual disk successfully served to the host
+2021-05-20 00:31:01,368 INFO  Initialized virtual disk successfully
+2021-05-20 00:31:26,376 INFO  ************************VdBench Execution Started************************
+2021-05-20 00:50:32,935 INFO  4-4k-4-fill workload executed sucessfully
+2021-05-20 00:56:37,627 INFO  VSI workload executed sucessfully
+2021-05-20 00:56:37,674 INFO  ************************VdBench Result Creation Started************************
+2021-05-20 00:56:47,378 INFO  15.0.1200.29364 Result created succesfully
+2021-05-20 00:56:47,394 INFO  ************************Setup Cleanup Started************************
+2021-05-20 00:56:47,472 INFO  Virtual disk unserved successfully
+2021-05-20 00:57:12,611 INFO  Virtual disk deleted successfully
+2021-05-20 00:57:37,722 INFO  Diskpool deleted successfully
+2021-05-20 00:59:37,729 INFO  ************************VdBench Execution Completed************************
+2021-05-20 01:05:50,584 INFO  Get host details
+2021-05-20 01:05:50,709 INFO  Get server details
+2021-05-20 01:05:52,239 INFO  ExpertMode password is extracted
+2021-05-20 01:05:52,239 INFO  Encryption at zpool level set as None
+2021-05-20 01:07:52,258 INFO  Found 9 physical disks in server group
+2021-05-20 01:07:59,461 INFO  ************************Test Started************************
+2021-05-20 01:08:47,071 INFO  Diskpool created successfully with capacity optimization
+2021-05-20 01:08:47,338 INFO  Disks are added to Diskpool
+2021-05-20 01:08:47,338 INFO  Reclamation started...
+2021-05-20 01:30:03,697 INFO  Reclamation completed
+2021-05-20 01:30:52,057 INFO  Server stopped successfully
+2021-05-20 01:31:39,652 INFO  Server started successfully
+2021-05-20 01:32:05,308 INFO  Virtual disk created successfully
+2021-05-20 01:32:55,605 INFO  Virtual disk successfully served to the host
+2021-05-20 01:33:20,622 INFO  Initialized virtual disk successfully
+2021-05-20 01:33:45,638 INFO  ************************VdBench Execution Started************************
+2021-05-20 01:52:51,684 INFO  4-4k-4-fill workload executed sucessfully
+2021-05-20 01:58:57,361 INFO  VDI workload executed sucessfully
+2021-05-20 01:58:57,408 INFO  ************************VdBench Result Creation Started************************
+2021-05-20 01:59:16,330 INFO  15.0.1200.29364 Result created succesfully
+2021-05-20 01:59:16,362 INFO  ************************Setup Cleanup Started************************
+2021-05-20 01:59:16,440 INFO  Virtual disk unserved successfully
+2021-05-20 01:59:41,558 INFO  Virtual disk deleted successfully
+2021-05-20 02:00:06,683 INFO  Diskpool deleted successfully
+2021-05-20 02:02:06,704 INFO  ************************VdBench Execution Completed************************
+2021-05-20 02:08:20,550 INFO  Get host details
+2021-05-20 02:08:20,675 INFO  Get server details
+2021-05-20 02:08:22,189 INFO  ExpertMode password is extracted
+2021-05-20 02:08:22,189 INFO  Encryption at zpool level set as None
+2021-05-20 02:10:22,191 INFO  Found 9 physical disks in server group
+2021-05-20 02:10:29,286 INFO  ************************Test Started************************
+2021-05-20 02:11:16,887 INFO  Diskpool created successfully with capacity optimization
+2021-05-20 02:11:17,159 INFO  Disks are added to Diskpool
+2021-05-20 02:11:17,159 INFO  Reclamation started...
+2021-05-20 02:32:32,349 INFO  Reclamation completed
+2021-05-20 02:33:20,587 INFO  Server stopped successfully
+2021-05-20 02:34:07,898 INFO  Server started successfully
+2021-05-20 02:34:33,509 INFO  Virtual disk created successfully
+2021-05-20 02:35:23,779 INFO  Virtual disk successfully served to the host
+2021-05-20 02:35:48,803 INFO  Initialized virtual disk successfully
+2021-05-20 02:36:13,805 INFO  ************************VdBench Execution Started************************
+2021-05-20 02:55:20,310 INFO  4-4k-4-fill workload executed sucessfully
+2021-05-20 03:01:26,017 INFO  SQL workload executed sucessfully
+2021-05-20 03:01:26,064 INFO  ************************VdBench Result Creation Started************************
+2021-05-20 03:02:04,646 INFO  15.0.1200.29364 Result created succesfully
+2021-05-20 03:02:04,708 INFO  ************************Setup Cleanup Started************************
+2021-05-20 03:02:04,802 INFO  Virtual disk unserved successfully
+2021-05-20 03:02:29,926 INFO  Virtual disk deleted successfully
+2021-05-20 03:02:55,053 INFO  Diskpool deleted successfully
+2021-05-20 03:04:55,063 INFO  ************************VdBench Execution Completed************************
+2021-05-20 03:11:15,280 INFO  Get host details
+2021-05-20 03:11:15,390 INFO  Get server details
+2021-05-20 03:11:16,917 INFO  ExpertMode password is extracted
+2021-05-20 03:11:16,917 INFO  Encryption at zpool level set as None
+2021-05-20 03:13:17,061 INFO  Found 9 physical disks in server group
+2021-05-20 03:13:24,265 INFO  ************************Test Started************************
+2021-05-20 03:14:11,891 INFO  Diskpool created successfully with capacity optimization
+2021-05-20 03:14:12,146 INFO  Disks are added to Diskpool
+2021-05-20 03:14:12,146 INFO  Reclamation started...
+2021-05-20 03:35:28,510 INFO  Reclamation completed
+2021-05-20 03:36:16,886 INFO  Server stopped successfully
+2021-05-20 03:37:06,669 INFO  Server started successfully
+2021-05-20 03:37:32,310 INFO  Virtual disk created successfully
+2021-05-20 03:38:22,608 INFO  Virtual disk successfully served to the host
+2021-05-20 03:38:47,624 INFO  Initialized virtual disk successfully
+2021-05-20 03:39:12,640 INFO  ************************VdBench Execution Started************************
+2021-05-20 03:58:19,136 INFO  4-4k-4-fill workload executed sucessfully
+2021-05-20 04:04:23,845 INFO  ORACLE workload executed sucessfully
+2021-05-20 04:04:23,876 INFO  ************************VdBench Result Creation Started************************
+2021-05-20 04:05:40,502 INFO  15.0.1200.29364 Result created succesfully
+2021-05-20 04:05:40,642 INFO  ************************Setup Cleanup Started************************
+2021-05-20 04:05:40,720 INFO  Virtual disk unserved successfully
+2021-05-20 04:06:05,855 INFO  Virtual disk deleted successfully
+2021-05-20 04:06:30,983 INFO  Diskpool deleted successfully
+2021-05-20 04:08:31,006 INFO  ************************VdBench Execution Completed************************
