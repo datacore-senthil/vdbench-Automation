@@ -1,0 +1,61 @@
+<title>Vdbench SQL_4-4k-4-fill/flatfile.html</title><pre>
+*
+* 'flatfile.html' contains Vdbench generated information in a column by column ASCII format. 
+* The first line in the file contains a one word 'column header name'; the rest of the file 
+* contains data that belongs to each column. The objective of this file format is to allow 
+* easy transfer of information to a spreadsheet and therefore the creation of performance 
+* charts different from the performance charts that can be created by Sun StorageTek Workload 
+* Analysis Tool (Swat) available for download from Sun.
+* See also 'Selective flatfile parsing' in the documentation. 
+*
+* Run             : Name of run from RD=
+* Interval        : Reporting interval number
+* reqrate         : Requested i/o rate
+* rate            : Observed i/o rate
+* MB/sec          : Megabytes per second (MB=1024*1024)
+* bytes/io        : Average data transfersize
+* read%           : Observed read percentage
+* resp            : Observed response time
+* read_resp       : Observed read response time
+* write_resp      : Observed write response time
+* resp_max        : Observed maximum response time
+* read_max        : Observed maximum read response time
+* write_max       : Observed maximum write response time
+* resp_std        : Standard deviation response time
+* read_std        : Standard deviation reads
+* write_std       : Standard deviation writes
+* xfersize        : data transfer size requested
+* threads         : number of threads requested
+* rdpct           : read% requested
+* rhpct           : readhit% requested
+* whpct           : writehit% requested
+* seekpct         : seek% requested
+* lunsize         : Total amount of Gigabytes of all luns (GB= 1024*1024*1024)
+* version         : Vdbench version identifier
+* compratio       : Requested compression ratio
+* dedupratio      : Requested dedup ratio
+* queue_depth     : Vdbench calculated average i/o queue depth
+* cpu_used        : kstat: cpu% user+sys
+* cpu_user        : kstat: cpu% user
+* cpu_kernel      : kstat: cpu% sys 
+* cpu_wait        : kstat: cpu% wait
+* cpu_idle        : kstat: cpu% idle
+* 'n/a'           : Data not available, or conflicting data. eg. multiple different xfersize parameters used.
+* 
+         tod               timestamp Run Interval reqrate rate MB/sec bytes/io read% resp read_resp write_resp resp_max read_max write_max resp_std read_std write_std xfersize threads rdpct rhpct whpct seekpct lunsize version compratio dedupratio queue_depth cpu_used cpu_user cpu_kernel cpu_wait cpu_idle 
+19:09:23.048 05/19/2021-19:09:23-EDT fill 1 9999988 4142.8333 453.9793 114904 0 3.8086 0 3.8086 725.915 0 725.915 14.726 0 14.726 4096 16 0 0 0 n/a 500 n/a 4 n/a 15.7788 26.0855 0.6974 25.388 0 0 
+19:10:23.001 05/19/2021-19:10:23-EDT fill 2 9999988 5449.7667 595.8033 114637 0 2.8919 0 2.8919 433.008 0 433.008 12.3987 0 12.3987 4096 16 0 0 0 n/a 500 n/a 4 n/a 15.7626 35.5927 1.0981 34.4947 0 0 
+19:11:23.001 05/19/2021-19:11:23-EDT fill 3 9999988 5216.9333 571.0711 114782 0 3.0257 0 3.0257 377.882 0 377.882 12.2155 0 12.2155 4096 16 0 0 0 n/a 500 n/a 4 n/a 15.7829 33.3643 0.9661 32.3982 0 0 
+19:12:23.001 05/19/2021-19:12:23-EDT fill 4 9999988 5578.45 608.515 114381 0 2.8267 0 2.8267 382.119 0 382.119 11.8914 0 11.8914 4096 16 0 0 0 n/a 500 n/a 4 n/a 15.7687 35.547 0.9629 34.5841 0 0 
+19:13:23.001 05/19/2021-19:13:23-EDT fill 5 9999988 5263.85 574.659 114473 0 2.9983 0 2.9983 373.265 0 373.265 12.2053 0 12.2053 4096 16 0 0 0 n/a 500 n/a 4 n/a 15.7824 33.8917 0.9816 32.9101 0 0 
+19:14:23.001 05/19/2021-19:14:23-EDT fill 6 9999988 5489.25 599.2562 114472 0 2.8727 0 2.8727 374.613 0 374.613 12.0958 0 12.0958 4096 16 0 0 0 n/a 500 n/a 4 n/a 15.7692 34.8455 1.0133 33.8321 0 0 
+19:15:23.001 05/19/2021-19:15:23-EDT fill 7 9999988 5195.7167 567.6496 114560 0 3.0375 0 3.0375 386.224 0 386.224 12.2458 0 12.2458 4096 16 0 0 0 n/a 500 n/a 4 n/a 15.7835 33.4361 0.933 32.5031 0 0 
+19:16:23.002 05/19/2021-19:16:23-EDT fill 8 9999988 5275.15 577.2654 114746 0 2.9917 0 2.9917 436.262 0 436.262 12.7729 0 12.7729 4096 16 0 0 0 n/a 500 n/a 4 n/a 15.7797 34.8191 0.9904 33.8287 0 0 
+19:17:23.001 05/19/2021-19:17:23-EDT fill 9 9999988 5435.8333 593.5006 114486 0 2.9017 0 2.9017 405.3 0 405.3 12.484 0 12.484 4096 16 0 0 0 n/a 500 n/a 4 n/a 15.7733 35.2806 0.9637 34.3169 0 0 
+19:18:23.001 05/19/2021-19:18:23-EDT fill 10 9999988 5601.1167 611.4915 114476 0 2.8144 0 2.8144 493.427 0 493.427 13.0018 0 13.0018 4096 16 0 0 0 n/a 500 n/a 4 n/a 15.7638 36.4812 1.0239 35.4573 0 0 
+19:19:23.001 05/19/2021-19:19:23-EDT fill 11 9999988 5532.9167 605.6148 114773 0 2.8498 0 2.8498 478.042 0 478.042 12.8144 0 12.8144 4096 16 0 0 0 n/a 500 n/a 4 n/a 15.7677 35.9384 0.9555 34.9829 0 0 
+19:20:23.001 05/19/2021-19:20:23-EDT fill 12 9999988 5854.75 639.148 114470 0 2.69 0 2.69 466.746 0 466.746 12.4077 0 12.4077 4096 16 0 0 0 n/a 500 n/a 4 n/a 15.7492 39.9916 1.1845 38.8071 0 0 
+19:21:23.002 05/19/2021-19:21:23-EDT fill 13 9999988 5298.35 578.6101 114510 0 2.9672 0 2.9672 436.313 0 436.313 12.5828 0 12.5828 4096 16 0 0 0 n/a 500 n/a 4 n/a 15.777 35.4027 0.989 34.4137 0 0 
+19:22:23.002 05/19/2021-19:22:23-EDT fill 14 9999988 5433.6333 593.0316 114442 0 2.9127 0 2.9127 492.903 0 492.903 13.8628 0 13.8628 4096 16 0 0 0 n/a 500 n/a 4 n/a 15.7708 35.1896 1.0111 34.1785 0 0 
+19:23:23.017 05/19/2021-19:23:23-EDT fill 15 9999988 3322.1 363.7337 114807 0 2.9212 0 2.9212 477.184 0 477.184 13.6636 0 13.6636 4096 16 0 0 0 n/a 500 n/a 4 n/a 9.7042 41.4314 0.7715 40.6598 0 0 
+19:23:23.033 05/19/2021-19:23:23-EDT fill  avg_2-15 9999988 5281.9869 577.0964 114564 0 2.9039 0 2.9039 493.427 0 493.427 12.6 0 12.6 4096 16 0 0 0 n/a 500 n/a 4 n/a 15.3382 35.8008 0.9889 34.8119 0 0 

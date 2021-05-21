@@ -1,0 +1,93 @@
+<title>Vdbench SQL_4-4k-4-fill/logfile.html</title><pre>
+Copyright (c) 2000, 2018, Oracle and/or its affiliates. All rights reserved.
+Vdbench distribution: vdbench50407
+
+02:36:14.702 input argument scanned: '-fc:\VdBench-Automation\Config\VdBench_config\Workload\4-4k-4-fill.vdb'
+02:36:14.702 input argument scanned: '-oc:\VdBench-Automation\Result\Vdbench/15.0.1200.29364_21-05-19_13-11-05/STANDARD/SQL_4-4k-4-fill'
+02:36:14.702 java.vendor                   Oracle Corporation
+02:36:14.702 java.home                     C:\Program Files\Java\jre1.8.0_281
+02:36:14.702 java.vm.specification.version 1.8
+02:36:14.702 java.vm.version               25.281-b09
+02:36:14.702 java.vm.vendor                Oracle Corporation
+02:36:14.702 java.specification.version    1.8
+02:36:14.702 java.class.version            52.0
+02:36:14.702 user.name                     Administrator
+02:36:14.717 user.dir                      C:\Users\Administrator\Downloads\vdbench50407
+02:36:14.717 java.io.tmpdir                C:\Users\ADMINI~1\AppData\Local\Temp\1\
+02:36:14.717 java.class.path               C:\Users\Administrator\Downloads\vdbench50407\;C:\Users\Administrator\Downloads\vdbench50407\classes;C:\Users\Administrator\Downloads\vdbench50407\vdbench.jar 
+02:36:14.717 os.name                       Windows Server 2016
+02:36:14.717 os.arch                       amd64
+02:36:14.717 os.version                    10.0
+02:36:14.717 sun.arch.data.model           64
+02:36:14.717 Flushing all reports
+02:36:14.811 Starting slave: C:\Users\Administrator\Downloads\vdbench50407\vdbench SlaveJvm -m localhost -n localhost-10-210520-02.36.14.655 -l localhost-0 -p 5570   
+02:36:15.485 Slave localhost-0 (pid  10368) connected to master 6088
+02:36:15.594 All slaves are now connected
+02:36:15.891 sd=sd2,lun=\\.\PhysicalDrive10 lun size: 536,870,912,000 bytes; 500.0000 GB (1024**3); 536.8709 GB (1000**3)
+
+Link to Run Definitions:         <A HREF="#_897697267">fill For loops: threads=16</A>
+
+02:36:15.907 Flushing all reports
+02:36:15.923 Dedup options: 
+dedup_type:                            1
+dedup_ratio:                        4.00
+dedup_unit:                        4,096
+flipflop:                             no
+hot_dedup_sets:                        0
+hot_dedup_blocks:                      0
+dedup_sets_reqd:                      5%
+dedup_sets_used:               6,553,600
+
+unique_blocks:                26,214,400
+duplicate_blocks:            104,857,600 (including 6,553,600 originals)
+dedup_pct:                         25.00
+dedup_adjusted:                    20.00
+total_size:                         500g
+unit_blocks:                 131,072,000
+
+Info only reliable if xfersize is multiple of dedupunit:
+uniques_written:                       0; expected 26,214,400; delta -26,214,400 
+duplicates_written:                    0; expected 104,857,600; delta -104,857,600 
+Total writes:                          0; delta -131,072,000
+flipflops:                             0
+
+Dsim counts: Hash size:       32,768,000 (26,214,400 uniques + 6,553,600 sets)
+Dsim counts: Duplicates:      98,304,000
+Dsim counts: Ratio:                 4.00 (4.00000)
+
+02:36:15.954 Waiting for synchronization of all slaves
+02:36:17.048 Synchronization of all slaves complete
+
+<a name="_897697267"></a><i><b>02:36:18.002 Starting RD=fill; I/O rate: Uncontrolled MAX; elapsed=172800; For loops: threads=16</b></i>
+
+
+May 20, 2021    interval        i/o   MB/sec   bytes   read     resp     read    write     read    write     resp  queue  cpu%  cpu%
+                               rate  1024**2     i/o    pct     time     resp     resp      max      max   stddev  depth sys+u   sys
+02:37:18.032           1     4351.3   476.63  114858   0.00    3.623    0.000    3.623     0.00    35.29    1.906   15.8   7.5   6.9
+02:38:18.001           2     4302.3   470.57  114691   0.00    3.684    0.000    3.684     0.00    24.42    1.204   15.8   7.5   6.9
+02:39:18.001           3     4310.0   470.91  114567   0.00    3.681    0.000    3.681     0.00    23.71    1.200   15.9   7.4   6.9
+02:40:18.001           4     4300.4   470.76  114787   0.00    3.692    0.000    3.692     0.00    24.38    1.187   15.9   7.3   6.8
+02:41:18.001           5     4318.7   470.94  114344   0.00    3.672    0.000    3.672     0.00    23.96    1.185   15.9   7.4   6.9
+02:42:18.001           6     4311.6   470.75  114486   0.00    3.676    0.000    3.676     0.00    23.78    1.180   15.9   8.7   8.0
+02:43:18.001           7     4312.2   470.80  114481   0.00    3.677    0.000    3.677     0.00    23.62    1.202   15.9   7.5   6.9
+02:44:18.001           8     4316.8   471.09  114432   0.00    3.673    0.000    3.673     0.00    23.81    1.153   15.9   7.4   6.8
+02:45:18.001           9     4307.7   470.86  114614   0.00    3.685    0.000    3.685     0.00    24.27    1.201   15.9   7.4   6.9
+02:46:18.010          10     4310.2   470.94  114570   0.00    3.679    0.000    3.679     0.00    23.97    1.177   15.9   7.4   6.9
+02:47:18.001          11     4310.0   471.15  114625   0.00    3.676    0.000    3.676     0.00    24.80    1.194   15.8   7.5   6.9
+02:48:18.010          12     4307.9   470.92  114627   0.00    3.680    0.000    3.680     0.00    24.66    1.179   15.9   7.5   6.9
+02:49:18.001          13     4304.8   471.03  114736   0.00    3.683    0.000    3.683     0.00    24.14    1.174   15.9   7.4   6.8
+02:50:18.001          14     4310.0   470.88  114559   0.00    3.679    0.000    3.679     0.00    24.07    1.178   15.9   7.4   6.9
+02:51:18.002          15     4313.0   470.81  114461   0.00    3.677    0.000    3.677     0.00    24.73    1.199   15.9   7.4   6.9
+02:52:18.001          16     4312.9   470.98  114506   0.00    3.676    0.000    3.676     0.00    24.33    1.159   15.9   8.7   8.0
+02:53:18.001          17     4315.6   470.83  114400   0.00    3.674    0.000    3.674     0.00    22.93    1.190   15.9   7.4   6.8
+02:54:18.001          18     4303.6   470.84  114720   0.00    3.684    0.000    3.684     0.00    24.68    1.187   15.9   7.4   6.8
+02:54:24.564 All sequential workloads on all slaves are done.
+02:54:24.564 This triggers end of run inspite of possibly some non-sequential workloads that are still running.
+02:55:18.002          19      471.8    51.63  114738   0.00    3.680    0.000    3.680     0.00    21.65    1.121    1.7   6.5   6.4
+02:55:18.002    avg_2-19     4096.6   447.59  114566   0.00    3.679    0.000    3.679     0.00    24.80    1.185   15.1   7.5   7.0
+02:55:18.231 Flushing all reports
+02:55:18.231 Java Heap in MB. max:  228.000; current:   77.500; used:   20.277; free:   57.223
+02:55:18.247 Ending Reporter
+02:55:19.309 Vdbench execution completed successfully. Output directory: c:\VdBench-Automation\Result\Vdbench\15.0.1200.29364_21-05-19_13-11-05\STANDARD\SQL_4-4k-4-fill 
+
+02:55:20.294 Java Heap in MB. max:  228.000; current:   77.500; used:   15.714; free:   61.786

@@ -1,0 +1,33 @@
+<title>Vdbench ILDC_vsi_fill/skew.html</title><pre>
+Workload skew report
+
+Skew information will only be generated if:
+ - there is more than one Workload Definition (WD/FWD)
+ - there is more than one Storage Definition (SD/FSD)
+ - there is more than one Host
+ - there is more than one Slave
+(Though these rules may be ignored from time to time).
+
+
+Link to Run Definitions:         <A HREF="#_897697267">rd_vsi_ramp For loops: rdpct=57 threads=8</A>
+
+
+<a name="_897697267"></a><i><b>13:46:34.001 Starting RD=rd_vsi_ramp; I/O rate: Uncontrolled MAX; elapsed=300 warmup=60; For loops: rdpct=57 threads=8</b></i>
+
+13:52:34.032 
+13:52:34.032 Counts reported below are for non-warmup intervals.
+13:52:34.032 
+13:52:34.032                     i/o   MB/sec   bytes   read     resp     read    write     resp     resp queue 
+13:52:34.032 SD:                rate  1024**2     i/o    pct     time     resp     resp      max   stddev depth 
+13:52:34.032 sd1             5934.07   294.53   52045  57.41    1.334    2.015    0.416  397.086    7.672   7.9 
+13:52:34.032 Total           5934.07   294.53   52045  57.41    1.334    2.015    0.416  397.086    7.672   7.9 
+13:52:34.032 
+13:52:34.032 Calculated versus requested workload skew. (Delta only shown if > 0.10% absolute)
+13:52:34.032 Note that for an Uncontrolled MAX run workload skew is irrelevant.
+13:52:34.032 This was an Uncontrolled MAX run.
+13:52:34.032 
+13:52:34.032                     i/o   MB/sec   bytes   read     resp     read    write     resp     resp queue       skew     skew    skew 
+13:52:34.032 WD:                rate  1024**2     i/o    pct     time     resp     resp      max   stddev depth  requested observed   delta 
+13:52:34.032 wd_vsi_read     2957.57   223.23   79143  57.36    1.418    2.140    0.448  397.086    7.880   4.2     50.00%   49.84%   0.16%
+13:52:34.032 wd_vsi_write    2976.50    71.30   25119  57.47    1.250    1.891    0.385  384.991    7.459   3.7     50.00%   50.16%  -0.16%
+13:52:34.032 Total           5934.07   294.53   52045  57.41    1.334    2.015    0.416  397.086    7.672   7.9    100.00%  100.00%
